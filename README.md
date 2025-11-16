@@ -56,29 +56,23 @@ https://www.youtube.com/c/LazyCoderOnline?sub_confirmation=1
 <table width="100%">
 <tr>
 <td align="center"><b>Admin Dashboard</b></td>
-<td align="center"><b>Student Dashboard</b></td>
 </tr>
 <tr>
 <td align="center"><img src="https://github.com/sumitkumar1503/online-exam-system/blob/master/screenshots/xyz.jpg?raw=true" width="90%"></td>
-<td align="center"><img src="https://placehold.co/600x400?text=Student+Dashboard" width="90%"></td>
 </tr>
 
 <tr>
 <td align="center"><b>Exam Page (with Pagination)</b></td>
-<td align="center"><b>Exam Review Page</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://placehold.co/600x400?text=Exam+Page" width="90%"></td>
-<td align="center"><img src="https://placehold.co/600x400?text=Review+Page" width="90%"></td>
+<td align="center"><img src="https://github.com/sumitkumar1503/online-exam-system/blob/master/screenshots/xyz.jpg" width="90%"></td>
 </tr>
 
 <tr>
 <td align="center"><b>Manage Students</b></td>
-<td align="center"><b>Student Profile Page</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://placehold.co/600x400?text=Manage+Students" width="90%"></td>
-<td align="center"><img src="https://placehold.co/600x400?text=Profile+Page" width="90%"></td>
+<td align="center"><img src="https://github.com/sumitkumar1503/online-exam-system/blob/master/screenshots/xyz.jpg" width="90%"></td>
 </tr>
 </table>
 
