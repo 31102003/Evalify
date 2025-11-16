@@ -1,188 +1,192 @@
-🚀 Online Exam System - Spring Boot & Thymeleaf
+# 🚀 Online Exam System – Spring Boot & Thymeleaf
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-17-blue%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" alt="Java 17">
-<img src="https://img.shields.io/badge/Spring%2520Boot-3.x-brightgreen%3Fstyle%3Dfor-the-badge%26logo%3Dspring%26logoColor%3Dwhite" alt="Spring Boot 3.x">
-<img src="https://img.shields.io/badge/Thymeleaf-green%3Fstyle%3Dfor-the-badge%26logo%3Dthymeleaf%26logoColor%3Dwhite" alt="Thymeleaf">
-<img src="https://img.shields.io/badge/Spring%2520Security-6-blue%3Fstyle%3Dfor-the-badge%26logo%3Dspringsecurity" alt="Spring Security 6">
-<img src="https://img.shields.io/badge/JPA%252FHibernate-red%3Fstyle%3Dfor-the-badge" alt="JPA/Hibernate">
-<img src="https://img.shields.io/badge/H2%2520Database-lightgrey%3Fstyle%3Dfor-the-badge" alt="H2 Database">
+<img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java&logoColor=white" alt="Java 17">
+<img src="https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot 3.x">
+<img src="https://img.shields.io/badge/Thymeleaf-3.x-green?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
+<img src="https://img.shields.io/badge/Spring%20Security-6-blue?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security 6">
+<img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-red?style=for-the-badge" alt="JPA / Hibernate">
+<img src="https://img.shields.io/badge/H2%20Database-lightgrey?style=for-the-badge" alt="H2 Database">
 </p>
 
-A comprehensive, full-stack Online Examination System built with Spring Boot, Spring Security, and Thymeleaf. This platform provides a secure, role-based environment for Admins to create and manage exams, and for Students to register, take timed tests, upload profile pictures, and review their performance.
+A comprehensive **Online Examination System** built using **Spring Boot, Spring Security, Thymeleaf, Bootstrap 5**, and **JPA/Hibernate**.  
+The platform provides a secure and user-friendly environment for **Admins** and **Students** to manage and take online tests effectively.
 
-This project is 100% free and the complete source code is provided.
+✔️ Completely Free  
+✔️ Full Source Code Included
 
-💖 Support & Contact
+---
 
-This project is created by LazyCoder. If you find it helpful, please consider supporting me!
+# 💖 Support & Contact
 
-📺 Subscribe to my YouTube Channel!
+This project is created by **LazyCoder**.
 
-This is the best way to support my work. I post tutorials, project builds, and tips on Spring Boot, Java, and web development.
+### 📺 Subscribe to My YouTube Channel
+I post tutorials, Java projects, and Spring Boot content regularly.
 
-Click here to Subscribe to LazyCoder
+👉 **Subscribe Here:**  
+https://www.youtube.com/c/LazyCoderOnline?sub_confirmation=1
 
-🤝 Need Help or Have a Project Idea?
+---
 
-Facing issues with this project? I'm happy to help!
+### 🤝 Need Help or Want a Custom Project?
 
-Want to get your own custom project built? I am available for freelance work.
+📌 Facing issues with this project?  
+📌 Want a custom Java/Spring Boot/Django project?
 
-WhatsApp: +91 9572181024
+**I am available for freelance development.**
+
+📱 **WhatsApp:** https://wa.me/919572181024
 
 <p align="center">
-<a href="https://www.youtube.com/c/LazyCoderOnline%3Fsub_confirmation%3D1">
-<img src="https://img.shields.io/badge/Subscribe-LazyCoder-red%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube" alt="Subscribe to LazyCoder on YouTube">
+<a href="https://www.youtube.com/c/LazyCoderOnline?sub_confirmation=1">
+<img src="https://img.shields.io/badge/Subscribe-LazyCoder-red?style=for-the-badge&logo=youtube" >
 </a>
+
 <a href="https://wa.me/919572181024">
-<img src="https://img.shields.io/badge/WhatsApp-9572181024-green%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp" alt="Contact on WhatsApp">
+<img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-green?style=for-the-badge&logo=whatsapp" >
 </a>
 </p>
 
-📸 Project Screenshots
+---
 
-(Note: Replace these placeholder URLs with your actual screenshots)
+# 📸 Screenshots
 
-<table align="center" width="100%">
+> ⚠️ Replace these placeholder URLs with actual screenshot image links.
+
+<table width="100%">
 <tr>
-<td align="center" width="50%"><b>Admin Dashboard (with Stats)</b></td>
-<td align="center" width="50%"><b>Student Dashboard (with Chart)</b></td>
+<td align="center"><b>Admin Dashboard</b></td>
+<td align="center"><b>Student Dashboard</b></td>
 </tr>
 <tr>
-<td align="center" width="50%"><img src="https" alt="Admin Dashboard"></td>
-<td align="center" width="50%"><img src="https" alt="Student Dashboard"></td>
+<td align="center"><img src="https://placehold.co/600x400?text=Admin+Dashboard" width="90%"></td>
+<td align="center"><img src="https://placehold.co/600x400?text=Student+Dashboard" width="90%"></td>
+</tr>
+
+<tr>
+<td align="center"><b>Exam Page (with Pagination)</b></td>
+<td align="center"><b>Exam Review Page</b></td>
 </tr>
 <tr>
-<td align="center" width="50%"><b>Student Exam Page (with Pagination)</b></td>
-<td align="center" width="50%"><b>Exam Review Page (Correct/Wrong)</b></td>
+<td align="center"><img src="https://placehold.co/600x400?text=Exam+Page" width="90%"></td>
+<td align="center"><img src="https://placehold.co/600x400?text=Review+Page" width="90%"></td>
+</tr>
+
+<tr>
+<td align="center"><b>Manage Students</b></td>
+<td align="center"><b>Student Profile Page</b></td>
 </tr>
 <tr>
-<td align="center" width="50%"><img src="https://placehold.co/600x400/e2e8f0/333%3Ftext%3DStudent%2BExam%2BPage" alt="Student Exam Page"></td>
-<td align="center" width="50%"><img src="https://placehold.co/600x400/e2e8f0/333%3Ftext%3DExam%2BReview%2BPage" alt="Exam Review Page"></td>
-</tr>
-<tr>
-<td align="center" width="50%"><b>Manage Students (Admin)</b></td>
-<td align="center" width="50%"><b>Student Profile Management</b></td>
-</tr>
-<tr>
-<td align="center" width="50%"><img src="https" alt="Admin Manage Students"></td>
-<td align="center" width="50%"><img src="https://placehold.co/600x400/e2e8f0/333%3Ftext%3DStudent%2BProfile%2BPage" alt="Student Profile Page"></td>
+<td align="center"><img src="https://placehold.co/600x400?text=Manage+Students" width="90%"></td>
+<td align="center"><img src="https://placehold.co/600x400?text=Profile+Page" width="90%"></td>
 </tr>
 </table>
 
-✨ Features
+---
 
-👨‍💻 Admin Features
+# ✨ Features
 
-Secure Admin Login
+## 👨‍💻 Admin Features
+- Secure Admin Login
+- Stats Dashboard (Total Students, Exams, Questions, Submissions)
+- **Exam CRUD** (title, duration, description)
+- **Question CRUD** per exam
+- Cascade deletes for exams → questions → results
+- Protect answered questions from accidental delete
+- Manage Students
+- Reset Student Password
+- Delete Student Account (cascade all related data)
+- View all submissions for any exam
 
-Statistical Dashboard: KPIs for Total Students, Exams, Questions, and Submissions.
+---
 
-Exam Management (CRUD): Create, read, edit, and delete exams (title, duration).
+## 🧑‍🎓 Student Features
+- Student Registration (Full Name, Email, Mobile, Profile Picture)
+- Secure Login
+- Dashboard with KPIs + Performance Chart
+- Take Exam (paginated interface + question palette)
+- Live Timer (auto submit)
+- Instant Results (score, percentage, pass/fail)
+- Detailed Review Page (correct vs incorrect answers)
+- Profile Update
+- Upload New Profile Picture
+- Change Password
+- View All Previous Exam Results
 
-Question Management (CRUD): Create, read, edit, and delete questions for each exam.
+---
 
-Cascade Deletes: Safely delete exams (cascades to questions & results).
+# 🛠️ Tech Stack
 
-Safe Deletes: Prevents deletion of questions that have already been answered by students.
+| Layer | Technology |
+|------|------------|
+| Backend | Spring Boot 3, Spring Security 6 |
+| Frontend | Thymeleaf, Bootstrap 5, Chart.js |
+| Database | H2 (file-based) |
+| ORM | Hibernate / JPA |
+| Build | Maven |
+| Storage | Local File System for images |
 
-Student Management: View a list of all registered students.
+---
 
-Admin Actions: Reset any student's password.
+# 🚀 How to Run the Project
 
-Admin Actions: Delete a student's account (cascades to all their results and answers).
+### ✔️ Prerequisites
+- Java **17+**
+- Maven
+- Any IDE (IntelliJ, VS Code, Eclipse)
 
-View Results: View a decorated list of all student submissions for a specific exam.
+---
 
-🧑‍🎓 Student Features
+### ✔️ Clone the Repository
 
-Secure Registration: Students can register with Full Name, Email, Mobile, and Profile Picture Upload.
-
-Secure Login
-
-Personalized Dashboard: Welcome message, KPIs (Exams Taken, Avg. Score, Best Score), and a line chart of past performance.
-
-Take Exam: A professional, paginated exam-taking interface.
-
-Question Palette: Students can see all question numbers, see which are answered (color change), and jump to any question.
-
-Live Timer: A real-time, auto-submitting timer for each exam.
-
-Instant Results: A decorated score and percentage page immediately after submission, with a "Pass" or "Fail" status.
-
-Review Answers: A dedicated "My Results" page where students can review all past exams, see their answers, and see the correct answers highlighted.
-
-Profile Management: Students can update their profile (full name, mobile) and upload a new profile picture.
-
-Password Management: Students can change their own password.
-
-🛠️ Tech Stack
-
-Backend: Spring Boot 3, Spring Security 6 (with Role-Based Auth)
-
-Frontend: Thymeleaf (Server-Side Rendering)
-
-Database: Spring Data JPA (Hibernate)
-
-Database: H2 (for development, configured for file persistence)
-
-Styling: Bootstrap 5, Bootstrap Icons
-
-Charting: Chart.js
-
-File Storage: Local file system storage for profile picture uploads
-
-Build: Apache Maven
-
-🚀 How to Run
-
-Prerequisites:
-
-Java JDK 17 or later
-
-Apache Maven
-
-Clone the Repository:
-
-git clone [https://github.com/sumitkumar1503/online-exam-system.git](https://github.com/sumitkumar1503/online-exam-system.git)
+```bash
+git clone https://github.com/sumitkumar1503/online-exam-system.git
 cd online-exam-system
+```
 
+---
 
-Run the Application:
+### ✔️ Start the Application
 
-Open the project in your favorite IDE (like IntelliJ IDEA or VS Code).
+Open the project → Run:
 
-Run the OnlineExamApplication.java file.
+`OnlineExamApplication.java`
 
-The application will start on http://localhost:7890.
+Server will start at:
 
-Database Configuration:
+👉 http://localhost:7890
 
-By default, the project uses a file-based H2 database.
+---
 
-The database file will be auto-created in a data folder in the project's root directory.
+# 🗄️ Database (H2)
 
-You can access the H2 console at http://localhost:7890/h2-console
+Access H2 Console:
 
-JDBC URL: jdbc:h2:file:./data/examdb
+👉 http://localhost:7890/h2-console
 
-Username: sa
+```
+JDBC URL : jdbc:h2:file:./data/examdb  
+Username : sa  
+Password : password
+```
 
-Password: password
+---
 
-Default Admin User:
+# 🔐 Default Admin User
 
-The application auto-creates an admin user on first startup.
+| Username | Password |
+|---------|----------|
+| admin | adminpass |
 
-Username : admin
+---
 
-Password: adminpass
+# 📜 License
 
-📜 License
+This project is **open-source** under the **MIT License**.
 
-This project is open-source and available under the MIT License.
+---
 
 <p align="center">
-Happy Coding!
+<strong>Happy Coding ❤️</strong>
 </p>
